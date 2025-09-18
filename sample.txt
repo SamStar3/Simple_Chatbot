@@ -1,0 +1,14 @@
+LangChain is an open-source framework designed to build applications powered by large language models (LLMs). 
+It provides tools for chaining together multiple components, such as prompts, LLMs, APIs, and vector databases, 
+to create advanced AI workflows.
+
+LangGraph is an extension of LangChain that focuses on building agent-based systems using a graph structure. 
+It allows developers to design AI workflows as graphs, where nodes represent steps or tools, and edges represent the flow of information.
+
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors. 
+It is often used to store and retrieve document embeddings for Retrieval-Augmented Generation (RAG).
+
+RAG (Retrieval-Augmented Generation) is a technique that combines retrieval of external documents with a generative model. 
+The retriever finds relevant documents, and the LLM uses them to provide more accurate answers.
+
+Tavily is a tool that allows searching the internet for real-time information, which can be integrated into LangChain applications.
